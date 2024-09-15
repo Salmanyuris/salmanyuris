@@ -2,10 +2,10 @@
 
 Perkenalkan nama saya **Salman Yuris Adila Azzami**.<br>
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang **Full-Stack Developer & Data Science** di [DISKOMINFO Kab. Tegal]([https://www.dicoding.com/](https://diskominfo.tegalkab.go.id/)).<br>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+Saya bertanggung jawab pada pengembangan website Diskominfo kab. tegal.<br>
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+Saya juga memiliki gelar Associate Data Science sejak 2024.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/salmanyuris/)ku ya.
