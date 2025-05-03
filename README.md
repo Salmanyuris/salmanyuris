@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Salman Yuris Adila Azzami**.<br>
 
-Saya Mahasiswa Saya adalah mahasiswa tahun akhir di Universitas Dian Nuswantoro, dengan fokus pada desain UI/UX, pengembangan web, Cloud Computing, dan analisis data. Saya terampil dalam bahasa pemrograman seperti Python, Node.js, dan PHP, serta mahir menggunakan alat-alat seperti Google Colab, Figma, dan Google Cloud Platform (GCP).<br>
+FreshGraduate dengan latar belakang Sarjana Sistem Informasi di Universitas Dian Nuswantoro, dengan fokus pada desain UI/UX, pengembangan web, Cloud Computing, dan analisis data. Saya terampil dalam bahasa pemrograman seperti Python, Node.js, dan PHP, serta mahir menggunakan alat-alat seperti Google Colab, Figma, dan Google Cloud Platform (GCP).<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/salmanyuris/)ku ya.
 
