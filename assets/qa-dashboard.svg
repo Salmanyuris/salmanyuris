@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="100%" height="100%" style="border-radius: 12px; background: #0b0f19; font-family: 'Fira Code', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;">
+  <!-- CSS Styles and Keyframes -->
+  <style>
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes scan {
+      0% { transform: translateY(0); opacity: 0.3; }
+      50% { transform: translateY(200px); opacity: 1; }
+      100% { transform: translateY(0); opacity: 0.3; }
+    }
+    @keyframes radar-rotate {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+    @keyframes line-type-1 {
+      0% { opacity: 0; }
+      5% { opacity: 1; }
+      100% { opacity: 1; }
+    }
+    @keyframes line-type-2 {
+      0%, 15% { opacity: 0; }
+      20% { opacity: 1; }
+      100% { opacity: 1; }
+    }
+    @keyframes line-type-3 {
+      0%, 30% { opacity: 0; }
+      35% { opacity: 1; }
+      100% { opacity: 1; }
+    }
+    @keyframes line-type-4 {
+      0%, 45% { opacity: 0; }
+      50% { opacity: 1; }
+      100% { opacity: 1; }
+    }
+    @keyframes line-type-5 {
+      0%, 60% { opacity: 0; }
+      65% { opacity: 1; }
+      100% { opacity: 1; }
+    }
+    @keyframes line-type-6 {
+      0%, 75% { opacity: 0; }
+      80% { opacity: 1; }
+      100% { opacity: 1; }
+    }
+    @keyframes bug-kill {
+      0%, 45% { transform: scale(1) translate(0, 0); opacity: 1; }
+      50% { transform: scale(1.3) translate(0, 0) rotate(15deg); filter: drop-shadow(0 0 8px #ff2a74); opacity: 1; }
+      55% { transform: scale(0) translate(0, 0); opacity: 0; }
+      100% { transform: scale(0) translate(0, 0); opacity: 0; }
+    }
+    @keyframes check-appear {
+      0%, 55% { transform: scale(0); opacity: 0; }
+      65% { transform: scale(1.2); opacity: 1; }
+      70%, 100% { transform: scale(1); opacity: 1; }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.4; }
+      50% { opacity: 1; }
+    }
+    
+    .cursor { animation: blink 1s infinite; fill: #00d2ff; }
+    .scan-line { animation: scan 4s ease-in-out infinite; }
+    .radar-sweep { animation: radar-rotate 8s linear infinite; transform-origin: 130px 170px; }
+    .log-1 { animation: line-type-1 10s infinite; }
+    .log-2 { animation: line-type-2 10s infinite; }
+    .log-3 { animation: line-type-3 10s infinite; }
+    .log-4 { animation: line-type-4 10s infinite; }
+    .log-5 { animation: line-type-5 10s infinite; }
+    .log-6 { animation: line-type-6 10s infinite; }
+    .bug-target { animation: bug-kill 10s infinite; transform-origin: 130px 170px; }
+    .check-success { animation: check-appear 10s infinite; transform-origin: 130px 170px; }
+    .pulse-dot { animation: pulse 2s infinite; }
+  </style>
+
+  <!-- Background Gradients and Glows -->
+  <defs>
+    <linearGradient id="window-header" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+    <linearGradient id="radar-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#00d2ff" stop-opacity="0.4" />
+    </linearGradient>
+    <linearGradient id="neon-glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff2a74" />
+      <stop offset="50%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#00d2ff" />
+    </linearGradient>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="rgba(255, 255, 255, 0.03)" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <!-- Window Frame -->
+  <rect width="100%" height="100%" fill="#0b0f19" rx="12" />
+  <rect width="100%" height="100%" fill="url(#grid)" rx="12" />
+  <rect width="100%" height="100%" fill="none" stroke="url(#neon-glow)" stroke-width="1.5" rx="12" opacity="0.8" />
+
+  <!-- Window Header -->
+  <path d="M 0 12 A 12 12 0 0 1 12 0 L 788 0 A 12 12 0 0 1 800 12 L 800 35 L 0 35 Z" fill="url(#window-header)" />
+  
+  <!-- Window Buttons -->
+  <circle cx="20" cy="17" r="6" fill="#ff5f56" />
+  <circle cx="40" cy="17" r="6" fill="#ffbd2e" />
+  <circle cx="60" cy="17" r="6" fill="#27c93f" />
+  
+  <!-- Window Title -->
+  <text x="400" y="22" font-size="12" fill="#8b949e" text-anchor="middle" letter-spacing="1">SALMAN-YURIS-QA-CONSOLE.sh</text>
+  
+  <!-- Connection Status -->
+  <circle cx="750" cy="17" r="4" fill="#00f5a0" class="pulse-dot" />
+  <text x="760" y="21" font-size="10" fill="#00f5a0" font-weight="bold">LIVE</text>
+
+  <!-- ================= LEFT PANEL: QA RADAR / SCANNER ================= -->
+  <!-- Panel Border / Background -->
+  <rect x="20" y="55" width="220" height="245" rx="8" fill="#0f1422" stroke="#21262d" stroke-width="1" />
+  
+  <!-- Scanner Grid & Circles -->
+  <g transform="translate(0, 0)">
+    <!-- Radar center at (130, 170) -->
+    <circle cx="130" cy="170" r="80" fill="none" stroke="rgba(0, 210, 255, 0.15)" stroke-width="1" />
+    <circle cx="130" cy="170" r="55" fill="none" stroke="rgba(0, 210, 255, 0.1)" stroke-width="1" />
+    <circle cx="130" cy="170" r="30" fill="none" stroke="rgba(0, 210, 255, 0.05)" stroke-width="1" />
+    <!-- Crosshairs -->
+    <line x1="50" y1="170" x2="210" y2="170" stroke="rgba(0, 210, 255, 0.1)" stroke-width="1" />
+    <line x1="130" y1="90" x2="130" y2="250" stroke="rgba(0, 210, 255, 0.1)" stroke-width="1" />
+    
+    <!-- Radar Sweeper -->
+    <path d="M 130 170 L 186.5 113.5 A 80 80 0 0 0 130 90 Z" fill="url(#radar-gradient)" class="radar-sweep" />
+    
+    <!-- Animated Bug (Gets detected then deleted) -->
+    <g class="bug-target">
+      <!-- Bug body and legs -->
+      <ellipse cx="130" cy="170" rx="10" ry="14" fill="#ff2a74" />
+      <circle cx="130" cy="152" r="6" fill="#ff2a74" />
+      <!-- Legs -->
+      <path d="M 115 160 Q 120 162 120 165 M 112 170 L 120 170 M 115 180 Q 120 178 120 175" stroke="#ff2a74" stroke-width="2" fill="none" stroke-linecap="round" />
+      <path d="M 145 160 Q 140 162 140 165 M 148 170 L 140 170 M 145 180 Q 140 178 140 175" stroke="#ff2a74" stroke-width="2" fill="none" stroke-linecap="round" />
+      <!-- Antennae -->
+      <path d="M 126 148 Q 124 140 120 138 M 134 148 Q 136 140 140 138" stroke="#ff2a74" stroke-width="1.5" fill="none" />
+      <!-- Red Glow -->
+      <circle cx="130" cy="170" r="22" fill="none" stroke="#ff2a74" stroke-dasharray="4 4" stroke-width="1.5">
+        <animate attributeName="transform" type="rotate" from="0 130 170" to="360 130 170" dur="5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- Animated Checkmark (Appears after bug is fixed) -->
+    <g class="check-success">
+      <circle cx="130" cy="170" r="20" fill="none" stroke="#00f5a0" stroke-width="2" />
+      <path d="M 122 170 L 127 175 L 138 164" fill="none" stroke="#00f5a0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <circle cx="130" cy="170" r="28" fill="none" stroke="#00f5a0" stroke-width="1" opacity="0.5">
+        <animate attributeName="r" values="20;32;20" dur="2s" repeatCount="indefinite" />
+      </circle>
+    </g>
+  </g>
+
+  <!-- Panel Labels -->
+  <text x="130" y="80" font-size="11" fill="#8b949e" text-anchor="middle" font-weight="bold">TARGET SCANNER</text>
+  <text x="130" y="270" font-size="11" fill="#00d2ff" text-anchor="middle" font-weight="bold" letter-spacing="1">STATUS: SCANNING</text>
+
+
+  <!-- ================= RIGHT PANEL: TERMINAL LOGS ================= -->
+  <!-- Panel Border / Background -->
+  <rect x="260" y="55" width="520" height="245" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="1" />
+
+  <!-- Terminal Content -->
+  <g font-size="12" fill="#c9d1d9" xml:space="preserve">
+    <!-- Log Line 1: Init -->
+    <g class="log-1">
+      <text x="280" y="85" fill="#8b949e">salmanyuris$</text>
+      <text x="370" y="85" fill="#00d2ff">npm run test:qa --verbose</text>
+    </g>
+
+    <!-- Log Line 2: Starting tests -->
+    <g class="log-2">
+      <text x="280" y="110" fill="#00f5a0">✓</text>
+      <text x="295" y="110" fill="#8b949e">[14:39:51]</text>
+      <text x="380" y="110">Initializing QA Engine &amp; Test Runners...</text>
+    </g>
+
+    <!-- Log Line 3: Loading modules -->
+    <g class="log-3">
+      <text x="280" y="135" fill="#00f5a0">✓</text>
+      <text x="295" y="135" fill="#8b949e">[14:39:52]</text>
+      <text x="380" y="135">Loaded Playwright, Cypress &amp; Selenium suites.</text>
+    </g>
+
+    <!-- Log Line 4: Testing Suite & Bug Found -->
+    <g class="log-4">
+      <text x="280" y="165" fill="#ff2a74">✗</text>
+      <text x="295" y="165" fill="#ff2a74">[BUG DETECTED]</text>
+      <text x="405" y="165" fill="#ff2a74" font-weight="bold">ElementNotInteractableException</text>
+      <text x="280" y="185" fill="#ff8b94" font-size="11">   → Target: button#submit-order [Selector mismatch on staging-v2]</text>
+    </g>
+
+    <!-- Log Line 5: Fixing/Retrying -->
+    <g class="log-5">
+      <text x="280" y="215" fill="#f59e0b">⚠</text>
+      <text x="295" y="215" fill="#f59e0b">[RESOLVING]</text>
+      <text x="390" y="215">Auto-patching locator &amp; re-running assertion...</text>
+    </g>
+
+    <!-- Log Line 6: All Passed -->
+    <g class="log-6">
+      <text x="280" y="245" fill="#00f5a0">✓</text>
+      <text x="295" y="245" fill="#00f5a0">[SUCCESS]</text>
+      <text x="380" y="245" fill="#00f5a0" font-weight="bold">All 142 assertions passed cleanly! (0.84s)</text>
+      <text x="280" y="265" fill="#8b949e">salmanyuris$</text>
+      <rect x="370" y="254" width="8" height="13" fill="#00d2ff" class="cursor" />
+    </g>
+  </g>
+</svg>

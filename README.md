@@ -1,6 +1,6 @@
-<!-- Banner Atas -->
+<h1 align="center">👋 Hai, Saya Salman Yuris Adila Azzami</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,30:7B2CBF,70:3A0CA3,100:4361EE&height=220&section=header&text=Salman%20Yuris%20Adila%20Azzami&fontSize=26&fontColor=ffffff&fontAlignY=35&desc=Junior%20IT%20Quality%20Assurance%20•%20Tech%20Enthusiast&descSize=16&descAlignY=58" />
+  <img src="./assets/qa-dashboard.svg" width="100%" alt="Salman Yuris QA Console" />
 </p>
 
 <!-- Animasi Sambutan & Maskot Kucing Koding Lucu -->
@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0Y3J1NHhrdDF3NHh2NmpkNHk0OWJvbmFjNjMyeTFocnd2aHhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L13yI3ztdLWZwjGXd7/giphy.gif" width="120" />
 </p>
 
----
+<img src="./assets/animated-divider.svg" width="100%" height="4" />
 
 ## 🌟 Tentang Saya
 
@@ -32,7 +32,7 @@
   </tr>
 </table>
 
----
+<img src="./assets/animated-divider.svg" width="100%" height="4" />
 
 ## 🧰 Kategori Kompetensi & Tools
 
@@ -63,7 +63,7 @@
   </tr>
 </table>
 
----
+<img src="./assets/animated-divider.svg" width="100%" height="4" />
 
 ## 🐛 Mode Hunter Bug (QA Life)
 
@@ -90,7 +90,7 @@
   </tr>
 </table>
 
----
+<img src="./assets/animated-divider.svg" width="100%" height="4" />
 
 ## 🏆 Dashboard Pencapaian & Statistik
 
@@ -117,7 +117,7 @@
   </tr>
 </table>
 
----
+<img src="./assets/animated-divider.svg" width="100%" height="4" />
 
 ## 🌐 Mari Terhubung!
 
@@ -137,9 +137,4 @@ Punya pertanyaan, tawaran kolaborasi, atau ingin berdiskusi seputar QA & Web Dev
   </a>
 </p>
 
----
-
-<!-- Banner Bawah -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4361EE,30:3A0CA3,70:7B2CBF,100:FF007F&height=120&section=footer"/>
-</p>
+<img src="./assets/animated-divider.svg" width="100%" height="4" />
