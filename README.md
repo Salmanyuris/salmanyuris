@@ -95,24 +95,24 @@
 ## 🏆 Dashboard Pencapaian & Statistik
 
 <p align="center">
-  <a href="https://github.com/salmanyuris">
-    <img src="https://github-profile-trophy.vercel.app/?username=salmanyuris&theme=tokyonight&margin-w=15&margin-h=15&column=5" alt="Trophies" />
+  <a href="https://github.com/Salmanyuris">
+    <img src="https://gh-trophy.cdnsoft.net/?username=Salmanyuris&theme=tokyonight&margin-w=15&margin-h=15&column=5" alt="Trophies" />
   </a>
 </p>
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=salmanyuris&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="190" />
+      <img src="https://github-stats-extended.vercel.app/api?username=Salmanyuris&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="190" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanyuris&theme=tokyonight" height="190" />
+      <img src="https://streak-stats.demolab.com/?user=Salmanyuris&theme=tokyonight" height="190" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanyuris&layout=compact&theme=tokyonight" height="170" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Salmanyuris&layout=compact&theme=tokyonight" height="170" />
     </td>
   </tr>
 </table>
@@ -132,7 +132,7 @@ Punya pertanyaan, tawaran kolaborasi, atau ingin berdiskusi seputar QA & Web Dev
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/salmanyuris">
+  <a href="https://github.com/Salmanyuris">
     <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge"/>
   </a>
 </p>
