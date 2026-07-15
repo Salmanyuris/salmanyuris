@@ -1,85 +1,121 @@
-<!-- Banner -->
+<!-- Banner Atas -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:2563eb&height=200&section=header&text=Salman%20Yuris%20Adila%20Azzami&fontSize=26&fontColor=ffffff&fontAlignY=35&desc=Junior%20IT%20Quality%20Assurance&descSize=16&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,30:7B2CBF,70:3A0CA3,100:4361EE&height=220&section=header&text=Salman%20Yuris%20Adila%20Azzami&fontSize=26&fontColor=ffffff&fontAlignY=35&desc=Junior%20IT%20Quality%20Assurance%20•%20Tech%20Enthusiast&descSize=16&descAlignY=58" />
 </p>
 
-<!-- Side-by-Side Intro & Cute Cat Coding Animation -->
+<!-- Animasi Sambutan & Maskot Kucing Koding Lucu -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=500&lines=IT+Quality+Assurance+Junior;Software+Testing+Enthusiast;Manual+%26+Automation+Tester;Web+Dev+%26+UI%2FUX+Explorer" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIyb2pyeHpsN2QwcWNwMHZ4b3M2ZDN1NGo1Mmt4ZGRxNDY2Nm1sZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QvBo7L3M95f30730FG/giphy.gif" width="120" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0Y3J1NHhrdDF3NHh2NmpkNHk0OWJvbmFjNjMyeTFocnd2aHhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L13yI3ztdLWZwjGXd7/giphy.gif" width="120" />
+</p>
+
+---
+
+## 🌟 Tentang Saya
+
 <table border="0" width="100%">
   <tr>
-    <td width="70%" valign="top">
-      <h2>👋 Halo, Saya Salman Yuris!</h2>
-      <!-- Dynamic Typing Animation -->
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0D9488&width=450&lines=IT+Quality+Assurance+Junior;Software+Testing+Enthusiast;Manual+%26+Automation+Tester;Web+Dev+%26+UI%2FUX+Explorer" alt="Typing SVG" />
-      </a>
-      <br><br>
-      <p>Saya adalah seorang <strong>IT Quality Assurance Junior</strong> yang memiliki antusiasme tinggi dalam memastikan kualitas perangkat lunak, keandalan sistem, serta kenyamanan pengalaman pengguna. Dengan latar belakang di bidang <strong>Web Development</strong>, <strong>UI/UX Design</strong>, dan <strong>Analisis Data</strong>, saya menggabungkan perspektif teknis dan desain untuk melakukan pengujian produk digital secara komprehensif.</p>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <!-- Cute Transparent Coding Cat GIF -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIyb2pyeHpsN2QwcWNwMHZ4b3M2ZDN1NGo1Mmt4ZGRxNDY2Nm1sZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QvBo7L3M95f30730FG/giphy.gif" width="160" alt="Coding Cat"/>
+    <td>
+      <p>✨ Halo! Saya <strong>Salman Yuris</strong>. Saya adalah seorang <strong>Junior IT Quality Assurance</strong> yang berdedikasi tinggi untuk memastikan kualitas dan keandalan sistem aplikasi. Dengan gabungan pemahaman mendalam tentang pengembangan web (Web Development), desain antarmuka (UI/UX), dan analisis data, saya mampu melakukan pengujian produk digital secara menyeluruh dari sisi fungsionalitas hingga pengalaman pengguna akhir.</p>
+      <ul>
+        <li>🛡️ <strong>Misi QA:</strong> Menemukan bug sebelum pengguna menemukannya, memastikan stabilitas kode, dan menjaga kualitas rilis produk.</li>
+        <li>💡 <strong>Filosofi:</strong> <em>"Software yang hebat tidak hanya dibangun dengan kode yang bersih, tetapi juga diuji dengan standar yang tinggi."</em></li>
+      </ul>
     </td>
   </tr>
 </table>
 
-### 🛡️ Fokus Utama & Keahlian QA Saya:
-* 🧪 **Software Testing Lifecycle (STLC)**: Perancangan skenario pengujian (*test cases* & *test scenarios*), pengujian fungsional/non-fungsional, serta pelaporan defect secara detail.
-* ⚙️ **Manual & Automated Testing**: Melakukan eksplorasi bug secara teliti dan mengotomatisasi pengujian API serta aplikasi web.
-* 🔍 **Detail-Oriented & User-Centric**: Memastikan aplikasi berjalan lancar dengan UI/UX yang intuitif bagi pengguna akhir.
-* 💬 **Collaborative Tester**: Bekerja sama erat dengan tim developer untuk mempercepat proses debugging dan rilis produk yang stabil.
+---
+
+## 🧰 Kategori Kompetensi & Tools
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Quality Assurance</h3>
+      <p>Membuat skenario pengujian, test cases, otomatisasi tes, dan pengujian API.</p>
+      <img src="https://skillicons.dev/icons?i=postman,selenium,cypress,git,github" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Web Development</h3>
+      <p>Mengerti arsitektur aplikasi untuk mempermudah pelacakan dan analisis bug.</p>
+      <img src="https://skillicons.dev/icons?i=python,js,php,nodejs,html,css,tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗄️ Database & Cloud</h3>
+      <p>Mengelola basis data pengujian dan memahami infrastruktur sistem.</p>
+      <img src="https://skillicons.dev/icons?i=mysql,gcp" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 UI/UX & Data Analysis</h3>
+      <p>Menganalisis kegunaan antarmuka dan visualisasi metrik performa.</p>
+      <img src="https://skillicons.dev/icons?i=figma,vscode" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Bidang Kompetensi & Tools
+## 🐛 Mode Hunter Bug (QA Life)
 
-Saya mengintegrasikan keahlian pengembangan, desain, dan pengujian untuk menghasilkan aplikasi berkualitas tinggi:
-
-| Kategori | Deskripsi & Tools |
-| :--- | :--- |
-| **🛡️ Quality Assurance** | Menguji fungsionalitas, performa, dan integrasi API.<br>• **Tools:** `Postman`, `Selenium`, `Cypress`, `Git`, `GitHub` |
-| **💻 Web Development** | Memahami arsitektur aplikasi untuk mempermudah pelacakan bug.<br>• **Teknologi:** `Python`, `JavaScript`, `PHP`, `Node.js`, `HTML`, `CSS`, `Tailwind CSS` |
-| **🗄️ Database & Cloud** | Pengelolaan data uji dan pemahaman infrastruktur cloud.<br>• **Teknologi:** `MySQL`, `Google Cloud Platform (GCP)` |
-| **🎨 UI/UX & Data Analysis** | Menganalisis antarmuka pengguna serta visualisasi data hasil pengujian.<br>• **Tools:** `Figma`, `Google Colab`, `Pandas`, `Matplotlib`, `Seaborn` |
-
-### 🧰 Tech Stack Badges
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,selenium,cypress,python,php,nodejs,js,html,css,tailwind,figma,mysql,gcp,github,vscode,git" />
-</p>
-
----
-
-## 🐛 Status QA (Bug Hunter Mode)
-
-> ### 💡 Mantra QA Hari Ini
-> *“Menulis kode itu seni, tapi menemukan celahnya adalah kepuasan sejati.”* 🔍✨
->
-> **Siklus Hidup Bug Terlucu:**
-> 1. 🔍 **Ditemukan** (Hehe, kena!)
-> 2. 📝 **Dilaporkan** (Lengkap dengan bukti screenshot & log)
-> 3. 🗣️ **Didebat oleh Developer** (*"Tapi di laptop saya aman kok!"* 🤷‍♂️)
-> 4. ✅ **Diperbaiki & Direstart** (Dan semua orang bahagia kembali!)
+<table border="0" width="100%">
+  <tr>
+    <td width="15%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B4MTJmOWxpeDFmYTdyMzhhbHgycXR6NWRjOWd1eXp6ZDBld3h6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v44j9mU1etS2A/giphy.gif" width="70" />
+    </td>
+    <td width="85%">
+      <blockquote>
+        <strong>Mantra QA Hari Ini:</strong> <em>“Menulis kode itu seni, tapi menemukan bug di dalamnya adalah kepuasan yang tiada tara.”</em> 🔍💥
+      </blockquote>
+      <details>
+        <summary><strong>🎮 Lihat Alur Kerja Debat Bug (Developer vs QA)</strong></summary>
+        <ol>
+          <li>🔍 <strong>QA:</strong> "Ada bug di halaman login, ini test casenya."</li>
+          <li>🗣️ <strong>Developer:</strong> "Tapi di laptop saya jalan aman kok!" 🤷‍♂️</li>
+          <li>🧪 <strong>QA:</strong> "Coba tes di staging dengan data uji ini."</li>
+          <li>💡 <strong>Developer:</strong> *hening sejenak* ... "Oh iya, lupa di-deploy." 😹</li>
+          <li>✅ <strong>Hasil Akhir:</strong> Aplikasi stabil dan siap rilis!</li>
+        </ol>
+      </details>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Pencapaian GitHub (Trophies)
+## 🏆 Dashboard Pencapaian & Statistik
 
 <p align="center">
   <a href="https://github.com/salmanyuris">
-    <img src="https://github-profile-trophy.vercel.app/?username=salmanyuris&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=salmanyuris&theme=tokyonight&margin-w=15&margin-h=15&column=5" alt="Trophies" />
   </a>
 </p>
 
-## 📊 Statistik & Aktivitas GitHub
-
-<p align="center">
-  <a href="https://github.com/salmanyuris">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salmanyuris&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistik GitHub Salman"/>
-    &nbsp;&nbsp;
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanyuris&theme=tokyonight" alt="GitHub Streak"/>
-  </a>
-  <br><br>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanyuris&layout=compact&theme=tokyonight" alt="Bahasa Terbanyak"/>
-</p>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=salmanyuris&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="190" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanyuris&theme=tokyonight" height="190" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanyuris&layout=compact&theme=tokyonight" height="170" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -103,7 +139,7 @@ Punya pertanyaan, tawaran kolaborasi, atau ingin berdiskusi seputar QA & Web Dev
 
 ---
 
-<!-- Footer -->
+<!-- Banner Bawah -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0d9488&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4361EE,30:3A0CA3,70:7B2CBF,100:FF007F&height=120&section=footer"/>
 </p>
