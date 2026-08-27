@@ -121,7 +121,7 @@
 
 ## 🌐 Mari Terhubung!
 
-Punya pertanyaan, tawaran kolaborasi, atau ingin berdiskusi seputar QA & Web Development? Silakan hubungi saya melalui platform berikut:
+Punya pertanyaan, tawaran kolaborasi, atau ingin berdiskusi seputar QA & Web Development? Silakan hubungi saya melalui platform berikut ya:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/salmanyuris/" target="_blank">
