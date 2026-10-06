@@ -1,7 +1,7 @@
 <div align="center">
 
-# ✦ SALMAN YURIS ADILA AZZAMI ✦
-### `Junior IT Quality Assurance` • `Automation & Manual Testing` • `Web Engineering`
+# SALMAN YURIS ADILA AZZAMI
+### `Junior IT Quality Assurance` • `Automation & Manual Testing`
 
 <p align="center">
   <a href="https://linkedin.com/in/salmanyuris"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
