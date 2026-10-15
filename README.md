@@ -98,31 +98,6 @@ Saya seorang **Junior IT Quality Assurance** dengan fondasi teknis kuat di bidan
   <img src="https://skillicons.dev/icons?i=postman,cypress,selenium,git,github,js,python,nodejs,php,tailwind,mysql,gcp,figma,vscode&perline=14&theme=dark" alt="Skill Icons" />
 </p>
 
-<br/>
-
-### 🔄 Quality Assurance Lifecycle
-
-```mermaid
-flowchart LR
-    A["📋 Requirement Audit"] --> B["📝 Test Scenario & Design"]
-    B --> C["⚡ Test Execution & API Run"]
-    C --> D{"🐞 Bug Detected?"}
-    D -- "Yes" --> E["🚩 Issue Log & Retest"]
-    E --> C
-    D -- "No" --> F["🚀 Production Release"]
-
-    classDef default fill:#18181b,stroke:#3f3f46,stroke-width:1.5px,color:#f4f4f5;
-    classDef check fill:#27272a,stroke:#38bdf8,stroke-width:2px,color:#38bdf8;
-    classDef bug fill:#450a0a,stroke:#f87171,stroke-width:2px,color:#fca5a5;
-    classDef release fill:#064e3b,stroke:#34d399,stroke-width:2px,color:#6ee7b7;
-
-    class A,B,C default;
-    class D check;
-    class E bug;
-    class F release;
-```
-
-<br/>
 
 ### 📊 GitHub Activity & Analytics
 
