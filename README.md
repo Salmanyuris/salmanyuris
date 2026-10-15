@@ -97,6 +97,8 @@ Saya seorang **Junior IT Quality Assurance** dengan fondasi teknis kuat di bidan
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman,cypress,selenium,git,github,js,python,nodejs,php,tailwind,mysql,gcp,figma,vscode&perline=14&theme=dark" alt="Skill Icons" />
 </p>
+<br>
+</br>
 
 
 ### 📊 GitHub Activity & Analytics
