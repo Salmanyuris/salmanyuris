@@ -22,7 +22,7 @@
 
 ### 🎯 About & Core Focus
 
-Saya seorang **Junior IT Quality Assurance** dengan fondasi teknis kuat di bidang *web development*, *UI/UX*, dan analisis data. Berkomitmen menghadirkan produk digital yang stabil, reliabel, dan intuitif melalui pengujian komprehensif dari level arsitektur API hingga *user experience* akhir.
+Saya seorang **Junior IT Quality Assurance** dengan fondasi teknis kuat di bidang *web development*, *UI/UX*, dan analisis data. Berkomitmen menghadirkan produk digital yang stabil, reliabel, dan intuitif melalui pengujian komprehensif dari arsitektur API hingga *user experience* akhir.
 
 * 🔍 **Precision Testing**: Functional, Regression, Smoke & Sanity checks
 * 🤖 **Automated Pipelines**: E2E web automation & API regression suites
