@@ -129,6 +129,6 @@ Apakah Anda membutuhkan pengujian sistem, otomatisasi pengetesan, atau kolaboras
 
 [**LinkedIn Profile**](https://linkedin.com/in/salmanyuris) &nbsp;•&nbsp; [**Send Email**](mailto:salmanyuris@gmail.com) &nbsp;•&nbsp; [**GitHub Repository**](https://github.com/Salmanyuris)
 
-<sub>Crafted with passion for software quality & reliability. Always test before launch! 🚀</sub>
+<sub>Crafted with passion for software quality & reliability. Always test before launch! uhuy 🚀</sub>
 
 </div>
